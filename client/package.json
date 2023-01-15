@@ -11,6 +11,7 @@
     "vite": "^4.0.0"
   },
   "dependencies": {
+    "esbuild": "^0.17.0",
     "git": "^0.1.5",
     "js": "^0.1.0",
     "json-file": "^0.1.0",
